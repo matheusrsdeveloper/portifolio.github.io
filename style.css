@@ -26,13 +26,13 @@ body {
     margin-top: 40px;
 }
 .texto-descricao {
-    color: rgb(178, 180, 180);
+    color: rgb(119, 211, 211);
     font-size: 20px;
     min-width: 250px;
 
 }
 #texto-titulo {
-    color: rgb(178, 180, 180);
+    color: rgb(114, 218, 218);
     margin: 0;
 }
 .icon {
@@ -41,7 +41,7 @@ body {
     transition: 0.5s;
 }
 .icon:hover{
-    color: darkmagenta;
+    color: rgb(114, 218, 218);
 }
 .redes-sociais {
     display: flex;
